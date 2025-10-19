@@ -126,6 +126,8 @@ export const RegisterPage = () => {
                     >
                         {loading ? <Loader /> : 'Register'}
                     </button>
+
+                    
                 </form>
 
                 {/* Login Link */}
